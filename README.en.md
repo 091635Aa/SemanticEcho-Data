@@ -4,6 +4,10 @@
 
 All auditable raw experiment data, architecture docs, papers and charts of **[Semantic Echo](https://github.com/091635Aa/SemanticEcho)** — a tiny **1.5B** model beating big-lab baselines on **4 of 5 Turing-test benchmarks** (emotional / human-likeness dimension). No fine-tuning, no retraining, no A100 farm. Just recycling discarded token embeddings at inference time.
 
+[![GitHub](https://img.shields.io/badge/GitHub-Source-green)](https://github.com/091635Aa/SemanticEcho)
+[![GitHub](https://img.shields.io/badge/Experiment-Report-orange)](https://github.com/091635Aa/1.5B-beats-big-labs)
+[![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue)](LICENSE)
+
 - [中文 README](README.md) | English README
 - Source repo: [SemanticEcho](https://github.com/091635Aa/SemanticEcho) · Experiment report: [1.5B-beats-big-labs](https://github.com/091635Aa/1.5B-beats-big-labs) · Live demo: https://091635aa.github.io/1.5B-beats-big-labs/
 
