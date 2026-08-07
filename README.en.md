@@ -109,7 +109,7 @@ Git gud. Or just copy this architecture home. Pay first (below).
 | **Long-term exclusive license (10/20 yrs)** | Sole right during the agreed term | **¥20,000,000 / 10 yrs+** |
 | **Perpetual exclusive buyout** | One-time buyout of all technical assets & source; author retains no commercial licensing rights | **¥80,000,000+** (original range ¥80,000,000–1,000,000,000, negotiable) |
 
-> Overseas big labs (@the ones above): I can't travel abroad and can hardly get an internship, so no licensing for you.
+> 😏 Overseas big labs (@openai @google @google-deepmind @anthropics @facebookresearch @meta-llama @xai): I can't travel abroad and can hardly get an internship, so no licensing for you.
 > One-term (one-year) license only. No long-term bulk licensing.
 
 **3. Discounts** (eligibility based):
