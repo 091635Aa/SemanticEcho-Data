@@ -14,6 +14,9 @@
 
 ---
 
+> 🗣️ **觉得数据太多看不懂？** 点这里看 [【大白话版】语义回响是什么？（小白也能看懂）](https://github.com/091635Aa/SemanticEcho-Hub/blob/main/大白话版.md)
+> 🏛️ **综合大仓库（总入口）**：[SemanticEcho-Hub](https://github.com/091635Aa/SemanticEcho-Hub) —— 汇总全部子仓库 + 商业授权价目表
+
 ## 🎯 这个仓库是什么？
 
 把语义回响项目 **所有可审计的原始实验数据** 集中公开：
