@@ -6,7 +6,7 @@ All auditable raw experiment data, architecture docs, papers and charts of **[Se
 
 [![GitHub](https://img.shields.io/badge/GitHub-Source-green)](https://github.com/091635Aa/SemanticEcho)
 [![GitHub](https://img.shields.io/badge/Experiment-Report-orange)](https://github.com/091635Aa/1.5B-beats-big-labs)
-[![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue)](LICENSE)
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue)](LICENSE)
 
 - [中文 README](README.md) | English README
 - Source repo: [SemanticEcho](https://github.com/091635Aa/SemanticEcho) · Experiment report: [1.5B-beats-big-labs](https://github.com/091635Aa/1.5B-beats-big-labs) · Live demo: https://091635aa.github.io/1.5B-beats-big-labs/
@@ -62,7 +62,7 @@ Full data: [实验数据/多模型对照汇总表.md](实验数据/多模型对�
 ```
 SemanticEcho-Data/
 ├── README.md / README.en.md      # 中文 / English
-├── LICENSE                        # CC BY-NC 4.0 + restrictions (non-commercial)
+├── LICENSE                        # CC BY-NC-SA 4.0 + restrictions (non-commercial)
 ├── 架构说明/                       # Universal Compatibility Layer V2 + full pipeline
 ├── 论文/                           # "The Temperature of Decisions" (43p CN) + Turing-test paper
 ├── 实验数据/                       # all raw data: multi-model, E-series, full-pipeline, Turing-test
@@ -113,8 +113,8 @@ Git gud. Or just copy this architecture home. Pay first (below).
 |---|---|---|
 | **Perpetual non-exclusive license** | One-time payment, permanent use; author retains the right to license others | **¥15,000,000+** |
 | **Exclusive license (annual)** | Sole right nationwide/globally during the term; no other company may use it | **¥10,000,000 / yr** |
-| **Long-term exclusive license (10/20 yrs)** | Sole right during the agreed term | **¥20,000,000 / 10 yrs+** |
-| **Perpetual exclusive buyout** | One-time buyout of all technical assets & source; author retains no commercial licensing rights | **¥80,000,000+** (original range ¥80,000,000–1,000,000,000, negotiable) |
+| **Long-term exclusive license (8/10 yrs)** | Sole right during the agreed term | **¥50,000,000 / 8 yrs+** (scale-up: **¥80,000,000 / 10 yrs**) |
+| **Perpetual exclusive buyout** | One-time buyout of all technical assets & source; author retains no commercial licensing rights | **¥100,000,000 – ¥1,000,000,000** (negotiable upside only, not downside; floor ¥100,000,000) |
 
 > 😏 Overseas big labs (@openai @google @google-deepmind @anthropics @facebookresearch @meta-llama @xai): I can't travel abroad and can hardly get an internship, so no licensing for you.
 > One-term (one-year) license only. No long-term bulk licensing.
@@ -142,11 +142,15 @@ Git gud. Or just copy this architecture home. Pay first (below).
 
 ## License
 
-This repository is licensed under **CC BY-NC 4.0 + Additional Restrictions** (non-commercial):
+This repository is licensed under **CC BY-NC-SA 4.0 + Additional Restrictions** (non-commercial; ShareAlike 4.0):
 
-- ✅ Allowed: personal research, academic citation, non-commercial education
+**ShareAlike (SA)**: anyone who modifies/adapts this work and redistributes it must use the same license — no relicensing under other terms.
+
+- ✅ Allowed: learning & personal research, academic citation, reproduction/verification of experiments
+- ⚠️ Limited: code may be studied but not copied wholesale; academic research use only
 - ❌ Prohibited: any commercial use (including internal enterprise use)
-- ❌ Prohibited: integration into or dependency by any public/closed-source project
+- ❌ Prohibited: use in ANY project — private or public (even non-profit / at a loss)
+- ❌ Prohibited: redistribution unless clearly @ crediting the author, or under the AGPL-3.0 license
 
 See [LICENSE](LICENSE) for details. For commercial licensing, contact the author.
 
